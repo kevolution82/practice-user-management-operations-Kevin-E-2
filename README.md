@@ -1,1 +1,4 @@
 # practice-user-management-operations-Kevin-E-2
+In this exercise I learned how to pull data from multiple tables using JOINs, and how to group and summarize that data with GROUP BY and aggregate functions. I also practiced filtering data with WHERE and HAVING, and worked with SubQueries to make my queries more dynamic.
+
+The tricky part was remembering the difference between WHERE and HAVING since one filters before grouping and the other filters after. Subqueries took a little extra brain power because you have to think about how the database handles them behind the scenes and where they fit inside the main query.
